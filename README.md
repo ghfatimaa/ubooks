@@ -16,4 +16,9 @@ You can start editing the page by modifying `components/Pages/index.tsx`. The pa
 <br/>
 <br/>
 <img src="https://github.com/ArminKardan/utrialv2/blob/master/screen.webp?raw=true" />
-پ
+<br/>
+Best regards.
+<br/>
+
+<br/>
+<br/>
